@@ -1,6 +1,6 @@
-**1.ETL Pipeline with Incremental Data Loading**  
-**Objective: Build an ETL pipeline to load new data into MySQL without duplication.**   
-**Steps:**  
+**1. ETL Pipeline with Incremental Data Loading**  
+    - **Objective: Build an ETL pipeline to load new data into MySQL without duplication.**   
+    - **Steps:**  
 
 1. Extract data from multiple sources (CSV files, APIs, etc.).
 2. Check for new records based on a timestamp or unique ID.
